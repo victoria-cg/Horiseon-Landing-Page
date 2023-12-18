@@ -33,6 +33,10 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
+Reference for semantic HTML:
+
+edX Boot Camps LLC. (2022). HTML Cheatsheet | The Full-Stack Blog. GitHub Pages. Retrieved December 17, 2023, from https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
+
 README Template used to format this README file:
 
 edX Boot Camps LLC. (2023, November 14). Professional README Guide | The Full-Stack Blog. GitHub Pages. Retrieved December 17, 2023, from https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
