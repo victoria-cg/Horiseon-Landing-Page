@@ -68,8 +68,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/*The main element contains the blue boxes with the SEO, Online Reputation Management, and Social Media Marketing paragraphs.*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
