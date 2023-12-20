@@ -46,10 +46,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -57,6 +53,11 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/*Paragraphs present in the following sections: main, aside, footer*/
+p {
+    font-size: 16px;
 }
 
 /*The main element contains the blue boxes with the SEO, Online Reputation Management, and Social Media Marketing paragraphs.*/
